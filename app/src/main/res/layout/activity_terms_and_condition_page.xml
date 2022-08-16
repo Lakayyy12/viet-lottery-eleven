@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TermsAndConditionPage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#EFD5B3">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="25dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Khả năng chấp nhận các Điều khoản và Tính hợp pháp của việc Sử dụng"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="25dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tc1"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tc2"
+            android:layout_marginTop="15dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tc3"
+            android:layout_marginTop="15dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Chính sách chơi trò chơi có trách nhiệm"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="25dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tc4"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tc41"
+            android:layout_marginTop="15dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tc42"
+            android:layout_marginTop="15dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tc43"
+            android:layout_marginTop="15dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tc44"
+            android:layout_marginTop="15dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tc45"
+            android:layout_marginTop="15dp"
+            android:layout_marginHorizontal="20dp"
+            android:textSize="18dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"/>
+
+        <TextView
+            android:id="@+id/btn5"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"
+            android:text="ĐỒNG Ý"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="5"
+            android:background="@drawable/tabbar"
+            android:gravity="center"
+            android:contentDescription="@string/button11"
+            android:layout_marginBottom="20dp"/>
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Xổ số Đà Lạt</string>
+
+    <string name="con">Một phương thức gây quỹ bằng cách bán vé số và trao giải thưởng cho người trúng số ngẫu nhiên.
+Sự thành công hoặc kết quả của một quá trình hoặc đối tượng được xác định một cách tình cờ.</string>
+    <string name="splash_screen">splash_screen</string>
+
+    <string name="con1">Nghiên cứu số liệu thống kê</string>
+    <string name="con2">Sử dụng Numerology</string>
+    <string name="con3">Sử dụng số may mắn</string>
+    <string name="con4">Ngẫu nhiên</string>
+    <string name="con5">Chọn các số trên 31</string>
+    <string name="con6">Tạo một khuôn mẫu</string>
+
+    <string name="con11">Chiến lược này đòi hỏi phải tra cứu các lần rút trước và ghi lại các quả bóng được rút ra phổ biến nhất. Và, bởi vì niềm đam mê xổ số trên toàn thế giới, có rất nhiều tài liệu có sẵn để bạn nghiên cứu.
+Chiến lược này nói chung là tốn thời gian, nhưng nhiều người chơi xổ số tin rằng nó mang lại lợi thế cho họ.</string>
+    <string name="con22">Chủ đề tiếp theo là số học. Bạn có áp dụng chiến lược này hay không hoàn toàn phụ thuộc vào niềm tin của bạn vào sức mạnh của vũ trụ.
+Ai cũng có thể nghĩ ra những “con số” riêng có ý nghĩa đặc biệt đối với họ.
+Sử dụng sáu con số bạn đã nghĩ ra cho lần quay xổ số tiếp theo.</string>
+    <string name="con33">Từ những ngày kỷ niệm đến áo đấu của các cầu thủ, những con số may mắn có thể được tìm thấy ở nhiều nơi. Tất cả những gì bạn phải làm bây giờ là chọn những thứ bạn thích hoặc có ý nghĩa tình cảm, và bạn đã hoàn thành.
+Rõ ràng đây không phải là một phương pháp khoa học, nhưng nó luôn là một phương pháp phổ biến để chọn số xổ số.</string>
+    <string name="con44">Có rất nhiều phương pháp khác nhau để chọn số một cách ngẫu nhiên - giới hạn duy nhất là trí tưởng tượng của bạn. Bạn cũng có thể chỉ cần thả bút vào một số số và sử dụng số mà nó tiếp cận.
+Đây là một trong những cách chọn số yêu thích của chúng tôi vì nó không mất nhiều thời gian và rất thú vị.</string>
+    <string name="con55">Mặc dù chiến lược này sẽ không tăng cơ hội chiến thắng của bạn, nhưng nó có thể tăng số tiền bạn giành được nếu bạn đủ may mắn trúng giải độc đắc.
+Chiến lược này là một chiến lược mà chúng tôi muốn giới thiệu cho mọi người vì nó rất đúng về mặt toán học.</string>
+    <string name="con66">Khi bạn nhìn xuống tờ vé số của mình, bạn sẽ nhận ra rằng mỗi lựa chọn đều góp phần tạo nên một khuôn mẫu. Cách tiếp cận này liên quan đến việc vẽ số trên phiếu để chọn số.
+Đừng chỉ đi trên một đường thẳng vì đó là điều mà nhiều người thường làm, và nếu bạn giành chiến thắng, bạn sẽ chia sẻ giải thưởng của mình với rất nhiều người khác.</string>
+    <string name="close_button">close</string>
+    <string name="banner" />
+
+    <string name="t1">Việc chọn các con số xổ số chỉ dựa vào ngày tháng năm sinh có một nhược điểm thứ hai là nó được thực hiện bởi đa số người chơi, và bạn gần như chắc chắn sẽ phải chia sẻ giải độc đắc với một số lượng lớn những người chiến thắng khác. Ít nhất một số cao phải luôn được bao gồm trong các lựa chọn của bạn.</string>
+    <string name="t2">Bạn có thể giành được nhiều hơn chỉ đơn giản là giải độc đắc. Tổng giải thưởng cũng bao gồm một số giải phụ. Nếu bạn thắng, bạn phải giữ phần lớn số tiền thắng của mình. Đánh lại tất cả các chiến thắng của bạn, bất kể là nhỏ đến mức nào, sẽ không dẫn bạn đến đâu.</string>
+    <string name="t3">Hãy nhớ rằng chiến thắng trong xổ số hoàn toàn phụ thuộc vào may mắn. Để giành chiến thắng, bạn chỉ cần một bộ số. Một vài tùy chọn bổ sung có thể cung cấp cho bạn thêm hy vọng và giúp bạn cảm thấy tốt hơn, đó là một điều tốt. Khi bạn chơi quá nhiều lựa chọn, bạn đang chơi với tỷ lệ cược cực cao. Bạn không nên làm điều này thường xuyên.</string>
+    <string name="t4">Hãy nhớ rằng, mặc dù có cơ hội trúng giải độc đắc xổ số rất lớn, nhưng bạn chỉ phải trúng nó một lần. Hơn nữa, nó được thắng bởi những người bình thường trong mỗi trận hòa. Bạn có thể là người chiến thắng tiếp theo.</string>
+
+    <string name="abt">Bạn có quyền kiểm soát hoặc khả năng dự đoán kết quả xổ số rất hạn chế. Mặt khác, chơi Hệ thống bánh xe có thể cung cấp cho bạn lợi thế thứ hai.
+
+Nói theo thống kê, Wheeling Systems không làm tăng tỷ lệ trúng giải độc đắc của bạn. Tuy nhiên, trái ngược với việc điền vào các lựa chọn một cách ngẫu nhiên hoặc sử dụng các lựa chọn nhanh, chúng sẽ làm tăng tỷ lệ thắng nhiều giải thưởng của bạn.
+
+Tuy nhiên, hãy nhớ rằng giải độc đắc xổ số chỉ giành được do may mắn thuần túy. Để giành chiến thắng, bạn chỉ cần một bộ số. Một vài tùy chọn bổ sung có thể cung cấp cho bạn thêm hy vọng và giúp bạn cảm thấy tốt hơn, đó là một điều tốt. Không nên đánh bạc thường xuyên với tỷ lệ cược rất cao bằng cách chơi nhiều tùy chọn.</string>
+    <string name="button11">next_button</string>
+    <string name="button111">button_to_homepage</string>
+
+    <string name="pp1">Chào mừng bạn đến với thông báo bảo mật cho Xổ số Đà Lạt.
+Xổ số Đà Lạt luôn cam kết bảo mật những thông tin cá nhân của bạn và tôn trọng quyền riêng tư của bạn. Thông báo về quyền riêng tư này sẽ giải thích cách chúng tôi xử lý dữ liệu cá nhân của bạn khi bạn truy cập trang web của chúng tôi (độc lập với việc bạn truy cập từ đâu), cũng như các quyền riêng tư của bạn và các biện pháp bảo vệ pháp lý được áp dụng để đảm bảo an toàn cho bạn.
+Bạn có thể nhấp qua các phần khác nhau của thông báo bảo mật được liệt kê bên dưới vì nó được trình bày theo kiểu nhiều lớp. Bằng cách nhấp vào biểu tượng ở cuối trang này, bạn cũng có thể in bản sao của thông báo. Để hiểu rõ hơn các định nghĩa của bất kỳ cụm từ nào được đề cập trong thông báo về quyền riêng tư này, vui lòng tham khảo Bảng chú giải thuật ngữ.</string>
+<string name="pp2">Bảo mật thông tin cá nhân của bạn là rất quan trọng đối với chúng tôi. Chúng tôi tuân thủ các tiêu chuẩn ngành được chấp nhận chung, bao gồm các biện pháp bảo vệ hành chính, vật lý và kỹ thuật thích hợp để ngăn chặn việc sử dụng, truy cập, thay đổi hoặc tiết lộ trái phép dữ liệu cá nhân của bạn. Ngoài ra, chúng tôi chỉ cho phép nhân viên, đại lý, nhà thầu và các bên thứ ba khác có nhu cầu kinh doanh biết quyền truy cập vào thông tin cá nhân của bạn. Họ có nghĩa vụ duy trì tính bảo mật và sẽ chỉ xử lý thông tin cá nhân của bạn theo chỉ dẫn của chúng tôi.</string>
+<string name="pp3">Để cung cấp cho bạn dịch vụ / sản phẩm tốt nhất và trải nghiệm tốt nhất và an toàn nhất, chúng tôi có lợi nhất là điều hành và quản lý công ty của mình với lợi ích hợp pháp. Trước khi chúng tôi xử lý dữ liệu cá nhân của bạn cho các mục đích hợp pháp của mình, chúng tôi đảm bảo rằng chúng tôi sẽ tính đến và cân nhắc mọi tác động tiềm ẩn đối với bạn (cả tích cực và tiêu cực). Chúng tôi không sử dụng thông tin cá nhân của bạn cho những việc mà tác động đến bạn sẽ lớn hơn lợi ích của chúng tôi (trừ khi chúng tôi có sự đồng ý của bạn hoặc được yêu cầu hoặc cho phép của pháp luật).
+Bằng cách liên hệ với chúng tôi, bạn có thể tìm hiểu thêm về cách chúng tôi cân nhắc lợi ích hợp pháp của mình so với bất kỳ ảnh hưởng nào có thể xảy ra đối với bạn liên quan đến các hoạt động cụ thể.
+Thực hiện hợp đồng đề cập đến việc sử dụng dữ liệu của bạn để thực hiện hợp đồng mà bạn là một bên hoặc thực hiện hành động theo yêu cầu của bạn trước khi giao kết hợp đồng.
+Xử lý dữ liệu cá nhân của bạn để tuân thủ yêu cầu pháp lý hoặc quy định có nghĩa là chúng tôi phải làm như vậy để hoàn thành nghĩa vụ mà chúng tôi phải tuân theo.</string>
+
+<string name="tc1">Các cá nhân dưới mười tám tuổi (18) không được phép sử dụng Trang web (hoặc bất kỳ độ tuổi áp dụng cao hơn nào ở quốc gia có liên quan). Bạn không được phép tạo Tài khoản (được mô tả bên dưới) hoặc sử dụng Dịch vụ nếu độ tuổi của bạn dưới 18 (hoặc bất kỳ độ tuổi áp dụng nào cao hơn) (được định nghĩa bên dưới).</string>
+<string name="tc2">Trong những trường hợp thích hợp, chúng tôi có quyền chấm dứt Tài khoản của Người dùng và / hoặc quyền truy cập vào Trang web và giữ lại bất kỳ giải thưởng nào còn lại nếu chúng tôi biết được thông qua các kênh đáng tin cậy rằng Người dùng dưới 18 tuổi (hoặc độ tuổi áp dụng cao hơn ).</string>
+<string name="tc3">Bạn có nhiệm vụ truy cập và sử dụng Trang web cũng như các Dịch vụ tuân theo Điều khoản, tất cả các luật và quy định có liên quan cũng như Chính sách trò chơi có trách nhiệm (xem phần 13). Bạn có nhiệm vụ đảm bảo rằng việc sử dụng Trang web và Dịch vụ của bạn từ quốc gia nơi bạn đang chơi là được phép.
+
+Trang web dành riêng cho việc sử dụng cá nhân và các hoạt động giải trí.</string>
+
+    <string name="tc4">Vì Xổ Số Đà Lạt nhằm mục đích quảng bá trò chơi và cá cược có trách nhiệm, chúng tôi cấm bất kỳ ai dưới 18 tuổi (hoặc độ tuổi hợp pháp ở quốc gia có liên quan) mở tài khoản, sử dụng dịch vụ của chúng tôi hoặc mua Trò chơi Win liền; và (ii) cấm bất kỳ ai dưới 21 tuổi đăng ký tài khoản Xổ số Đà Lạt (ii) chủ trương rằng tất cả Người dùng đặt ra các hạn chế đối với quyền truy cập của họ vào Rút thăm Xổ số và Trò chơi Trúng ngay; và (iii) không đề nghị Người dùng sử dụng Xổ số hoặc Trò chơi Giành ngay làm phương tiện trả nợ hoặc như một nguồn thu nhập. Chúng tôi khuyên bạn nên ngừng sử dụng và đóng Tài khoản của mình bằng cách sử dụng Công cụ Trang web mà chúng tôi cung cấp trên Trang web nếu bạn tin rằng bạn đang sử dụng Dịch vụ của chúng tôi hoặc mua Trò chơi Instant Win một cách thiếu trách nhiệm. Chúng bao gồm những điều sau:</string>
+<string name="tc41">• Bạn có tùy chọn, theo quyết định của mình, để hạn chế số tiền bạn có thể gửi trong một khoảng thời gian nhất định bằng cách sử dụng các công cụ của Trang web.</string>
+<string name="tc42">• Bạn có thể tự do quyết định thời gian bạn có thể đăng nhập vào trang web trong một phiên duy nhất. Bạn sẽ đăng xuất khỏi trang web và bất kỳ trò chơi nào vẫn đang diễn ra sau khi khoảng thời gian này trôi qua.</string>
+<string name="tc43">• Sử dụng các khả năng trên Trang web, bạn có thể quyết định có dành cho mình thời gian tạm dừng cho bất kỳ việc gì từ một ngày đến sáu tuần hay không. Bạn sẽ không thể chơi, gửi tiền, đặt hàng hoặc mua bất cứ thứ gì vào lúc này.</string>
+<string name="tc44">• Bạn có tùy chọn để thiết lập một kiểm tra thực tế, chỉ có sẵn cho Trò chơi Thắng tức thì, theo lựa chọn của bạn. Kiểm tra thực tế tạm dừng chơi mỗi giờ và hiển thị thời gian bạn đã chơi, cùng với số tiền thắng và thua của bạn, trong suốt thời gian đó.</string>
+<string name="tc45">• Sử dụng các tính năng trên Trang web, bạn có thể chọn cấm mình chơi trong một khoảng thời gian nhất định hoặc vô thời hạn, trong thời gian đó, bạn sẽ không thể truy cập vào Tài khoản của mình.</string>
+
+
+</resources>
